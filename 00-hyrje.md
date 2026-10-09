@@ -26,7 +26,7 @@ Ligji rregullon në një akt të vetëm arbitrazhin vendas dhe ndërkombëtar ku
 
 ## Metoda
 
-- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti zyrtar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë, ndërsa numrat e faqeve janë hequr. Shënimi përmbyllës i tekstit zyrtar (miratimi dhe shpallja) është dhënë nën nenin 49.
+- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti zyrtar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë. Shënimi përmbyllës i tekstit zyrtar (miratimi dhe shpallja) është dhënë nën nenin 49.
 - Komentari është hartuar **vetëm mbi bazën e materialeve lokale** (teksti zyrtar i aktit dhe metadatat e tij), pa përdorur baza të dhënash juridike komerciale. **Praktika gjyqësore nuk është pjesë e këtij versioni**; ajo do të shtohet në një fazë të veçantë. Aktet e tjera ligjore përmenden vetëm kur u referohet vetë teksti i ligjit (Kodi i Procedurës Civile, Konventa e Nju Jorkut dhe ligji nr. 8658, datë 9.11.2000).
 - Aty ku teksti përmban paqartësi ose mospërputhje terminologjike (p.sh. përdorimi i termit “gjykata” në pikën 3 të nenit 31, referenca në pikën 4 të nenit 27, formulimi “marrëveshjen e shqyrtuar” në pikën 4 të nenit 39, raporti i fjalive në pikën 4 të nenit 8), komentari e shënon këtë dhe propozon një lexim sistematik; ky lexim është mendim i autorit dhe jo interpretim zyrtar.
 
